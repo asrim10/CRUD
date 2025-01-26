@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "86688162999",
+    "firebase_url": "https://lodex-1f7ca-default-rtdb.firebaseio.com",
+    "project_id": "lodex-1f7ca",
+    "storage_bucket": "lodex-1f7ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86688162999:android:4e25d82a56d0920e915932",
+        "android_client_info": {
+          "package_name": "com.example.a35b_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgacxNO9wqdS20xBDp3L1uqQq6h5AiZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86688162999:android:407ae0199e9d910b915932",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgacxNO9wqdS20xBDp3L1uqQq6h5AiZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
